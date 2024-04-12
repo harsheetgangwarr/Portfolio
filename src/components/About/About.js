@@ -23,14 +23,14 @@ function About() {
         </ScrollAnimation>
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
-            Hello! My name is <strong>Pedro Muniz</strong>. I'm originally from Brazil and have been living in Canada for the past three years. During my time here, I gained valuable experience through various entry-level positions, which greatly enhanced my work ethic, communication skills, and adaptability.
+            Hello! My name is <strong>Harsheet</strong>. I'm from Bareilly,Uttar Pradesh and currently pursuing Bachelor of Technology from KIET Group of Institutions, Ghaziabad. During my time here, I gained valuable experience through various entry-level positions, which greatly enhanced my work ethic, communication skills, and adaptability.
             </ScrollAnimation>
 
             <br /><br />
             
             <ScrollAnimation animateIn="fadeInLeft">
-            My journey into the world of technology began with a strong passion for problem-solving, which led me to pursue the Computer Systems Technology program. Despite its challenges, I remained determined and forged lasting friendships that supported me throughout this demanding program.
-            Throughout my studies at BCIT, I had the opportunity to engage in fascinating projects. Notably, I contributed to the development of the RENR Safety App and MyMind, projects that garnered recognition from my colleagues, instructors, and clients alike.
+            My journey into the world of technology began with a strong passion for problem-solving. Despite its challenges, I remained determined and forged lasting friendships that supported me throughout this demanding program.
+            During my studies at KIET, I had the opportunity to engage in fascinating projects. Notably, I contributed to the development of the Flight Management System and UI Clone of YouTube,Netflix,Swiggy with add on functionalities. These projects that garnered recognition from my colleagues, instructors, and clients alike.
             </ScrollAnimation>
 
             <br /><br />
