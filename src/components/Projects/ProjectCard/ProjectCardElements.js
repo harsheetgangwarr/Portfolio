@@ -22,6 +22,7 @@ export const CardLeft = styled.div`
   height: 100%;
   img {
     object-fit: cover;
+    box-radius: 10px;
   }
 `;
 

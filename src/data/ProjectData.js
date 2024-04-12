@@ -1,7 +1,7 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "/ykte-feature-graphic.png",
+    img: "/ykte-feature-graphic.jpg",
     title: "Flight Mangement System",
     description:
       "A platform where you can manage the work between the flight staff and at the airport between the co workers",
@@ -10,7 +10,7 @@ export const ProjectList = [
     demo_url: "",
   },
   {
-    img: "/renr-responsive.png",
+    img: "/renr-responsive.jpg",
     title: "You Tube UI Clone",
     description:
       "A Youtube clone where you can see the video and can able to live chat on the video",
@@ -37,11 +37,11 @@ export const ProjectList = [
     demo_url: "",
   },
   {
-    img: "/jobDetect.png",
-    title: "JobDetect",
+    img: "/jobDetect.jpg",
+    title: "Netflix",
     description:
-      "An app to detect if a job posting is a scam or not using its description.",
-    tech_stack: ["Python", "Flask", "NodeJs", "MongoDB"],
+      "An app to see popular, trending movies and Web series.",
+    tech_stack: ["React", "Redux", "Express", "MongoDB"],
     github_url: "",
     demo_url: "",
   },
@@ -127,7 +127,7 @@ export const stackList = [
     name: "Figma",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg",
+    img: "https://img.icons8.com/?size=48&id=4PiNHtUJVbLs&format=png",
     name: "TailwindCSS",
   },
   {
